@@ -1,0 +1,17 @@
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\bin\Debug\net6.0-windows\Stadium Seating Form.exe
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\bin\Debug\net6.0-windows\Stadium Seating Form.deps.json
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\bin\Debug\net6.0-windows\Stadium Seating Form.runtimeconfig.json
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\bin\Debug\net6.0-windows\Stadium Seating Form.dll
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\bin\Debug\net6.0-windows\Stadium Seating Form.pdb
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\obj\Debug\net6.0-windows\Stadium Seating Form.csproj.AssemblyReference.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\obj\Debug\net6.0-windows\Stadium_Seating_Form.ClassATextBox.resources
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\obj\Debug\net6.0-windows\Stadium Seating Form.csproj.GenerateResource.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\obj\Debug\net6.0-windows\Stadium Seating Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\obj\Debug\net6.0-windows\Stadium Seating Form.AssemblyInfoInputs.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\obj\Debug\net6.0-windows\Stadium Seating Form.AssemblyInfo.cs
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\obj\Debug\net6.0-windows\Stadium Seating Form.csproj.CoreCompileInputs.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\obj\Debug\net6.0-windows\Stadium Seating Form.dll
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\obj\Debug\net6.0-windows\refint\Stadium Seating Form.dll
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\obj\Debug\net6.0-windows\Stadium Seating Form.pdb
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\obj\Debug\net6.0-windows\Stadium Seating Form.genruntimeconfig.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\Stadium Seating Form\Stadium Seating Form\obj\Debug\net6.0-windows\ref\Stadium Seating Form.dll
